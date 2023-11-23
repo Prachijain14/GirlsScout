@@ -1,4 +1,4 @@
-using GirlScoutCookieBoothManager.Web.Data;
+using GirlScoutCookieBoothManager.Infrastructure;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
